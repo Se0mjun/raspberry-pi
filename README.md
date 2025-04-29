@@ -3,6 +3,7 @@ Rasberry PI practice
 
 라즈베리 파이 설치 과정
 
+1-1 설치 준비
 1. SD card 를 window PC에 연결
   
 2. 포털 검색창에 라즈베리 파이 설치 검색 후 설치- 실행 - 설정 완료 후 대부분 YES 누르고 포맷 (20분 정도 소요)
@@ -13,14 +14,15 @@ Rasberry PI practice
 
 5. 부팅 후 부팅 되는 것 확인
 
-6. vim 혹은 nano 와 같은 편집기 설치 (sudo apt ~~~)
+1-2 설치 과정
+1. vim 혹은 nano 와 같은 편집기 설치 (sudo apt ~~~)
 
-8. 휴대폰으로 챗지피티에 "라즈베리파이 fcitx + 원하는 편집기 + 설치 방법" 입력
+2. 휴대폰으로 챗지피티에 "라즈베리파이 fcitx + 원하는 편집기 + 설치 방법" 입력
 ex) 라즈베리파이 fcitx vim 설치 방법
 sudo apt update
 sudo apt install fcitx-hagul
 
-편집기 내용 모두 입력 후  Esc 누르고 :wq 입력하고 Enter : 한글 입력기 설치 완료
+3. 편집기 내용 모두 입력 후  Esc 누르고 :wq 입력하고 Enter : 한글 입력기 설치 완료
 
 fcitx 설정 창에서 한글 입력기 설정 하기
 
@@ -28,10 +30,10 @@ sudo apt update
 sudo apt install fonts-nanum 설치 후 
 reboot  : 한글 뷰어
 
-한글 로케일 설정
+4. 한글 로케일 설정
 sudo raspi-config 입력
 
-휴대폰으로 쳇지피티에 : "라즈베리파이 설치시 sudo raspi-config 를 실행 후 처음에 해야 하는 것" 검색
+5. 휴대폰으로 쳇지피티에 : "라즈베리파이 설치시 sudo raspi-config 를 실행 후 처음에 해야 하는 것" 검색
 
 
 
