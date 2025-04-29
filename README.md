@@ -71,6 +71,8 @@ sudo raspi-config 입력
 
 ## 🧰 필수 프로그램 설치
 
+우선 Wi-FI 연결 후 
+
 6. **패키지 업데이트**
   sudo apt update
 
