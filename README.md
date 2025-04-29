@@ -9,13 +9,13 @@ Rasberry PI practice
    
 3. 포맷 후 SD card 라즈베리파이에 삽입
 
-4. 키보드, 마우스 USB 삽입
+4. 키보드, 마우스, 모니터 라즈베리파이에 연결
 
 5. 부팅 후 부팅 되는 것 확인
 
 6. vim 혹은 nano 와 같은 편집기 설치 (sudo apt ~~~)
 
-8. 챗지피티에 라즈베리파이 fcitx + 원하는 편집기 + 설치 방법 입력
+8. 휴대폰으로 챗지피티에 "라즈베리파이 fcitx + 원하는 편집기 + 설치 방법" 입력
 ex) 라즈베리파이 fcitx vim 설치 방법
 sudo apt update
 sudo apt install fcitx-hagul
@@ -31,7 +31,7 @@ reboot  : 한글 뷰어
 한글 로케일 설정
 sudo raspi-config 입력
 
-쳇지피티에 : "라즈베리파이 설치시 sudo raspi-config 를 실행 후 처음에 해야 하는 것" 검색
+휴대폰으로 쳇지피티에 : "라즈베리파이 설치시 sudo raspi-config 를 실행 후 처음에 해야 하는 것" 검색
 
 
 
