@@ -3,7 +3,7 @@ Rasberry PI practice
 
 라즈베리 파이 설치 과정
 
-1. SD card 를 PC에 연결
+1. SD card 를 window PC에 연결
   
 2. 포털 검색창에 라즈베리 파이 설치 검색 후 설치- 실행 - 설정 완료 후 대부분 YES 누르고 포맷 (20분 정도 소요)
    
